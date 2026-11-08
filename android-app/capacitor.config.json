@@ -1,0 +1,7 @@
+{
+  "appId": "com.homedesigner3d.app",
+  "appName": "HomeDesigner 3D",
+  "webDir": "www",
+  "backgroundColor": "#1b1f27",
+  "android": { "allowMixedContent": false }
+}

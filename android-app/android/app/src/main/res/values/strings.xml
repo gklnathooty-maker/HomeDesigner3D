@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HomeDesigner 3D</string>
+    <string name="title_activity_main">HomeDesigner 3D</string>
+    <string name="package_name">com.homedesigner3d.app</string>
+    <string name="custom_url_scheme">com.homedesigner3d.app</string>
+</resources>
